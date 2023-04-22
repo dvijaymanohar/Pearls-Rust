@@ -1,0 +1,11 @@
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/target/debug/deps/quote-5fac219f32c85c67.rmeta: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/target/debug/deps/quote-5fac219f32c85c67.d: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs:

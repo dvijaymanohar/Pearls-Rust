@@ -1,0 +1,22 @@
+[package]
+name = "cli-grpc-tonic-blocking"
+version = "0.1.0"
+authors = ["V.M. Dogiparthi <dvijaymanohar@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# gRPC server/client
+tonic = "0.8.2"
+prost = "0.11.0"
+
+# We will use a crate called StructOpt. StructOpt utilizes the Clap crate which is a powerful
+# command line parser. But Clap can be a little complicated to use, so StructOpt additionally
+# provides a lot of convenient functionality Rust a #[derive] attributes
+structopt = "0.3"
+
+# Async runtime
+tokio = { version = "1.21.2", features = ["full"] }
+
+[build-dependencies]
+# protobuf->Rust compiler
+tonic-build = "0.8.2"

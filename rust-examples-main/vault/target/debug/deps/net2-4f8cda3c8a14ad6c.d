@@ -1,0 +1,13 @@
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/vault/target/debug/deps/net2-4f8cda3c8a14ad6c.rmeta: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/vault/target/debug/deps/net2-4f8cda3c8a14ad6c.d: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs:

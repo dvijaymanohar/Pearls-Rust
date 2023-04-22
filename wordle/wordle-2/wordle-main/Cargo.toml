@@ -1,0 +1,32 @@
+[package]
+name = "cl-wordle"
+authors = ["Conrad Ludgate <conradludgate@gmail.com>"]
+version = "0.4.0"
+rust-version = "1.58"
+edition = "2021"
+license = "MIT"
+description = "Wordle in your terminal"
+repository = "https://github.com/conradludgate/wordle"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eyre = { version = "0.6" }
+time = { version = "0.3", features = ["local-offset", "macros", "parsing"], optional = true }
+
+owo-colors = { version = "3.2", optional = true }
+crossterm = { version = "0.23", optional = true }
+clap = { version = "3.0", features = ["derive"], optional = true }
+rand = { version = "0.8", optional = true }
+
+[dev-dependencies]
+test-case = "1.2.2"
+
+[features]
+default = ["tui"]
+tui = ["owo-colors", "crossterm", "rand", "cli"]
+cli = ["time", "clap"]
+
+[[bin]]
+name = "wordle"
+required-features = ["cli"]

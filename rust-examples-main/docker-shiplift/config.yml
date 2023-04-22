@@ -1,0 +1,5 @@
+image: alpine
+command:
+        #  - sleep 5
+  - echo Hello World!
+  - echo Second line

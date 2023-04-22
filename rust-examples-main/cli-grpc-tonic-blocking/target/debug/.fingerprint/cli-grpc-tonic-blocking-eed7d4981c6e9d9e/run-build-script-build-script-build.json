@@ -1,0 +1,1 @@
+{"rustc":1003036681119404961,"features":"","target":0,"profile":0,"path":0,"deps":[[16881654331167122838,"build_script_build",false,1048453288512703150]],"local":[{"RerunIfChanged":{"output":"debug/build/cli-grpc-tonic-blocking-eed7d4981c6e9d9e/output","paths":["proto/cli.proto","proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

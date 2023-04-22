@@ -1,0 +1,10 @@
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/cli-grpc-tonic-blocking/target/debug/deps/prost_types-558be843c5c6498f.rmeta: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/datetime.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/protobuf.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/compiler.rs
+
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/cli-grpc-tonic-blocking/target/debug/deps/libprost_types-558be843c5c6498f.rlib: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/datetime.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/protobuf.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/compiler.rs
+
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/cli-grpc-tonic-blocking/target/debug/deps/prost_types-558be843c5c6498f.d: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/datetime.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/protobuf.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/compiler.rs
+
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/lib.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/datetime.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/protobuf.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-types-0.11.2/src/compiler.rs:

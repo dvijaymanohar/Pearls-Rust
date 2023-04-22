@@ -1,0 +1,5 @@
+cargo:rerun-if-changed=proto/cli.proto
+cargo:rerun-if-changed=proto
+Running: "/opt/homebrew/bin/protoc" "--include_imports" "--include_source_info" "-o" "/var/folders/k7/vtnpj0bn0mz4tt9bnn31vylc8zg_pt/T/prost-buildZECdLq/prost-descriptor-set" "-I" "proto" "proto/cli.proto"
+prost: " Command input"
+prost: " Command output"

@@ -1,0 +1,13 @@
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/vault/target/debug/deps/url-ac02004e36b172b6.rmeta: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/vdogiparthi/Documents/workspace/rust/projects/rust-examples-main/vault/target/debug/deps/url-ac02004e36b172b6.d: /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/Users/vdogiparthi/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

@@ -1,0 +1,57 @@
+
+syntax = "proto3";
+
+package adac_remote;
+
+/* Was an RPC call successful, and if not, why not? */
+message Status {
+  /* Was the RPC call successful? */
+  bool success = 1;
+
+  /* HTTP status code (for easy mapping to REST APIs). */
+  uint32 code = 2;
+
+  /* Human-readable string describing the status. */
+  string reason = 3;
+}
+
+message SetDacVoltageRequest {
+  /* DAC channel on which the voltage is set */
+  uint32 dac_channel = 1;
+
+  /* DAC voltage */
+  float voltage = 2;
+
+  /* verbosity level - This is only to add debugging at the platform
+   * implementation */
+  bool verbosity_level = 3;
+}
+
+message SetDacVoltageResponse {
+  /* Was the request sucessful and if not why not? In case of error, this is the
+   * only field. */
+  Status status = 1;
+}
+
+message GetAdcVoltageRequest {
+  /* ADC channel from which the voltage is read */
+  uint32 adc_channel = 1;
+
+  /* Verbose level - This is only to add debugging at the platform
+   * implementation */
+  bool verbosity_level = 2;
+}
+
+message GetAdcVoltageResponse {
+  /* Was the request sucessful and if not why not? In case of error, this is the
+   * only field. */
+  Status status = 1;
+
+  /* ADC voltage */
+  float voltage = 2;
+}
+
+service AdacRemote {
+  rpc SetDacVoltage(SetDacVoltageRequest) returns (SetDacVoltageResponse);
+  //rpc GetAdcVoltage(GetAdcVoltageRequest) returns (GetAdcVoltageResponse);
+}

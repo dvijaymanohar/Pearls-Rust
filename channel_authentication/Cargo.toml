@@ -1,0 +1,28 @@
+[package]
+name = "channel_authentication"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+futures = "0.3"
+state_machine = "0.1.14"
+# tonic = "0.8"
+prost = "0.11"
+memmap = "0.7.0"
+volatile = "0.4.4"
+clap = { version = "4.1.0", features = ["derive"] }
+math = "0.10.0"
+clap-num = "1.0.0"
+if-addrs = "0.10.1"
+tokio = { version = "1.0", features = [
+    "macros",
+    "rt-multi-thread",
+] } # Async runtime
+tonic = { version = "0.8.3", features = [
+    "transport",
+    "tls",
+] } # gRPC implementation
+
+[build-dependencies]
+tonic-build = "0.8"
